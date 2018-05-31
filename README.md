@@ -13,7 +13,7 @@ optional arguments:
   
   -k KEYWORDS, --keywords KEYWORDS
   
-                        keywords in url to be found, must be comma-separted if
+                        keywords in the file path to be found, must be comma-separted if
                         
                         more than 1 Eg. class1,positve,png or
                         
